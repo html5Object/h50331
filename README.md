@@ -1,7 +1,7 @@
 # 地图热点跳转h50331
 
 效果如下：
-fdfs
+
 ![](img.gif)
 
 all code:
